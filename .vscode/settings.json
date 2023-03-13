@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/reyes/code/sqlite_c",
+            "binaryPath": "/home/reyes/code/sqlite_c/main",
+            "binaryArgs": []
+        }
+    ]
+}
